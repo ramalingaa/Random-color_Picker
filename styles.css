@@ -1,0 +1,23 @@
+.borderAlign{
+    border: 1px solid black;
+    width: 100px;
+    height: 60px;
+    
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    background-color: #ffffff;
+}
+.containerA{
+    margin-left: auto;
+}
+.colorPicker{
+    border: 1px solid black;
+    width: 100px;
+    height: 60px;
+}
